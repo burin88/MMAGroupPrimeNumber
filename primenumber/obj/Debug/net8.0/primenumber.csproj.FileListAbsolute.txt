@@ -1,0 +1,14 @@
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/bin/Debug/net8.0/primenumber
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/bin/Debug/net8.0/primenumber.deps.json
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/bin/Debug/net8.0/primenumber.runtimeconfig.json
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/bin/Debug/net8.0/primenumber.dll
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/bin/Debug/net8.0/primenumber.pdb
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/primenumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/primenumber.AssemblyInfoInputs.cache
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/primenumber.AssemblyInfo.cs
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/primenumber.csproj.CoreCompileInputs.cache
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/primenumber.dll
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/refint/primenumber.dll
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/primenumber.pdb
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/primenumber.genruntimeconfig.cache
+/Users/burins/Desktop/MAAGroup/MMAGroupPrimeNumber/primenumber/obj/Debug/net8.0/ref/primenumber.dll
